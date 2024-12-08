@@ -39,3 +39,26 @@ An engaging web-based drum kit that lets you play drums using your keyboard! Exp
 1. Clone this repository:
 ```bash
 git clone [your-repo-link]
+```
+
+2. Open `index.html` in your browser
+3. Start drumming! 🥁
+
+## 🎥 Preview
+
+![Drum Kit Preview](images/Sample_Home_Img.png)
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](your-repo-link/issues).
+
+## ⭐ Show your support
+
+Give a ⭐️ if you like this project!
+
+---
+Made with ❤️ by [Your Name]
