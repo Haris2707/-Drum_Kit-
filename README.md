@@ -46,7 +46,7 @@ git clone [your-repo-link]
 
 ## 🎥 Preview
 
-![Drum Kit Preview](Sample_Home_Img.png)
+![Drum Kit Preview](images/Sample_Home_Img.png)
 
 ## 📝 License
 
@@ -61,4 +61,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 Give a ⭐️ if you like this project!
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Haris Ali]
