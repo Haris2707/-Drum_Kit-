@@ -46,7 +46,8 @@ git clone [your-repo-link]
 
 ## 🎥 Preview
 
-![Drum Kit Preview](.images/Sample_Home_Img.png)
+![Drum Kit Preview](images/Sample_Home_Img.png)
+
 
 ## 📝 License
 
